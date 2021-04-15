@@ -1827,7 +1827,7 @@ animation: 3s colorchange 2s forwards;
   position: relative;
   overflow: hidden;
   /* margin: 0 0; */
-  font-family: sans-serif;
+  font-family: poppins;
   font-size: 24px;
   font-weight: 600;
   line-height: 24px;
